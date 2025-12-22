@@ -1,4 +1,4 @@
-# 📊 HR Analytics – Employee Promotion Prediction
+# 📊 HR Analytics – Employee Promotion 
 
 This project analyzes HR employee data to understand the key factors influencing promotions and builds a machine learning model to predict whether an employee is eligible for promotion.  
 The work is implemented entirely in a **Jupyter Notebook**, covering data preprocessing, EDA, feature engineering, and model evaluation.
